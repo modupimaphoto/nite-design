@@ -1,0 +1,17 @@
+{
+  "Messages": [
+    {
+      "name": "Modupi Maphto",
+      "email": "modupimaphto@gmail.com",
+      "message": "Hi, can you tell about ",
+      "id": 1
+    },
+    {
+      "name": "Jay Cruise",
+      "email": "jaycruise@gmail.com",
+      "message": "Tell me more about pricing..",
+      "id": 2
+    }
+  ],
+  "Chatbot": []
+}
