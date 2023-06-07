@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/nite-design/static/css/main.b01937a1.css",
+    "main.js": "/nite-design/static/js/main.5fd514cf.js",
+    "static/media/illustration.png": "/nite-design/static/media/illustration.1723b0fe2812b441eeab.png",
+    "static/media/Artboard.jpg": "/nite-design/static/media/Artboard.71a990bcc8b296933d50.jpg",
+    "static/media/dashboard.png": "/nite-design/static/media/dashboard.ac3ae0c08522074847c7.png",
+    "static/media/e_learning.jpg": "/nite-design/static/media/e_learning.4c2f614566d84df9905a.jpg",
+    "static/media/preview.png": "/nite-design/static/media/preview.b10fd230c1fc470fec85.png",
+    "static/media/discussion.jpg": "/nite-design/static/media/discussion.3c35ca832e58b789a452.jpg",
+    "static/media/Ux_Ui_design.svg": "/nite-design/static/media/Ux_Ui_design.389ba6fb6bf956e31dc0.svg",
+    "static/media/prototypetools.png": "/nite-design/static/media/prototypetools.ab7582c982904231fd00.png",
+    "static/media/analyzing_data.jpg": "/nite-design/static/media/analyzing_data.d0b1e64f1eb32e783cb3.jpg",
+    "static/media/Error.svg": "/nite-design/static/media/Error.d8264b5be70ea8676a44f3efac3b12e3.svg",
+    "static/media/userresearch.png": "/nite-design/static/media/userresearch.56617833128dfcddc91f.png",
+    "static/media/smartphonedesign.png": "/nite-design/static/media/smartphonedesign.0c6a0d1e38a58b2752f4.png",
+    "static/media/logo.svg": "/nite-design/static/media/logo.75c0be0ec5f9d3ff2f1827893802f0d2.svg",
+    "static/media/rightarrow.svg": "/nite-design/static/media/rightarrow.8be713f255c5ab1f7ef97c31e4792eb1.svg",
+    "static/media/bot.svg": "/nite-design/static/media/bot.b3262df0dcce57291e558ffbb378d390.svg",
+    "static/media/mail.svg": "/nite-design/static/media/mail.9b870e973db8faeadb7446f30c0a9f78.svg",
+    "static/media/telephone.svg": "/nite-design/static/media/telephone.867ad466164b7f317b08432e52eb7f65.svg",
+    "static/media/linkedin.svg": "/nite-design/static/media/linkedin.da90fd0d99bb3b84c38afe0ce41c79d3.svg",
+    "static/media/address_pin.svg": "/nite-design/static/media/address_pin.9b362848cfa882837f617fc69f181eee.svg",
+    "static/media/chaticon.svg": "/nite-design/static/media/chaticon.a180b8b477ac3c90f665b3905e14bd86.svg",
+    "static/media/twitter.svg": "/nite-design/static/media/twitter.e7623d3e13ee60977ca6fabc9ea23347.svg",
+    "static/media/tickcircle.svg": "/nite-design/static/media/tickcircle.6071520cb8e42e8731cab4bcc775f7cb.svg",
+    "static/media/bars.svg": "/nite-design/static/media/bars.605156cea01f29922849cc53baf3d8ad.svg",
+    "static/media/instagram.svg": "/nite-design/static/media/instagram.26b3c79f90d96ede4a6e44020ad2b942.svg",
+    "static/media/eye_closed.svg": "/nite-design/static/media/eye_closed.f1915d44fce58a8719cee40b5197f23f.svg",
+    "index.html": "/nite-design/index.html",
+    "static/media/facebook.svg": "/nite-design/static/media/facebook.ddc979a58bd9246dfbbbf2f174bfc214.svg",
+    "static/media/ticksquare.svg": "/nite-design/static/media/ticksquare.5a4f0e411af03dde1ad73bc99e67f62d.svg",
+    "static/media/eye_open.svg": "/nite-design/static/media/eye_open.bd99b936bf740792f75c4dad5f36f540.svg",
+    "static/media/wrongcircle.svg": "/nite-design/static/media/wrongcircle.985d7eaeb2c9b6a59ecf327fe5791fb3.svg",
+    "static/media/cross.svg": "/nite-design/static/media/cross.4e27e998d6a8d289d5a9abb699df4d2d.svg",
+    "main.b01937a1.css.map": "/nite-design/static/css/main.b01937a1.css.map",
+    "main.5fd514cf.js.map": "/nite-design/static/js/main.5fd514cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01937a1.css",
+    "static/js/main.5fd514cf.js"
+  ]
+}
